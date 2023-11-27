@@ -1,0 +1,10 @@
+cff-version: 3.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Carlin
+    given-names: Domhnall
+    orcid: 
+title: "Add nums"
+version: 3.0.0
+doi: 10.5072/zenodo.3241
+date-released: 1-12-23
